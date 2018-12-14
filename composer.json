@@ -1,5 +1,5 @@
 {
-    "name": "daniel/ramverk1-module",
+    "name": "daib17/ramverk1-test-module",
     "description": "A module for the ramverk1 course.",
     "license": "MIT",
     "authors": [
@@ -7,5 +7,7 @@
             "name": "Daniel Ibanez"
         }
     ],
-    "require": {}
+    "require": {
+        "anax/anax-cli": "^1.1",
+    }
 }

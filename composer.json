@@ -1,0 +1,11 @@
+{
+    "name": "daniel/ramverk1-module",
+    "description": "A module for the ramverk1 course.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Ibanez"
+        }
+    ],
+    "require": {}
+}

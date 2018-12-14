@@ -8,6 +8,6 @@
         }
     ],
     "require": {
-        "anax/anax-cli": "^1.1",
+        "anax/anax-cli": "^1.1"
     }
 }
